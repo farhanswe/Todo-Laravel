@@ -1,0 +1,41 @@
+.panel-padding-zero{
+    padding: 0px;
+}
+.white{
+    background: white;
+}
+.button-white{
+    color: white;
+}
+.green{
+    color: #4CAF50;
+}
+.input-form-hight{
+    height: 45px;
+}
+.menu-margin{
+    margin-bottom:0px;
+}
+@media (min-width: 768px) {
+    .navbar-nav.navbar-center {
+        position: absolute;
+        left: 50%;
+        transform: translatex(-50%);
+    }
+}
+.button-check {
+    background: #dfdfdf;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+}
+.button-circle{
+    border-radius: 48%;
+}
+.task-padding{
+    padding: 10px;
+}
