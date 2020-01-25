@@ -77,7 +77,7 @@
                     _token:'{{ csrf_token() }}'
                 },
                 function(data, status){
-                    window.location.href = "/task";
+                    //window.location.href = "/task";
                     //alert("Data: " + data + "\nStatus: " + status);
                 });
         };
