@@ -1,4 +1,4 @@
-# Todos Laravel
+# Todo Laravel
 
 ## install
 
